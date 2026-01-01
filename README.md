@@ -14,7 +14,6 @@ The application provides APIs for **user registration, authentication, activity 
 - Activity tracking with persistent storage using MySQL  
 - Input validation and centralized exception handling  
 - Interactive API documentation using Swagger/OpenAPI  
-- Containerized setup using Docker  
 
 ---
 
@@ -33,7 +32,6 @@ The application provides APIs for **user registration, authentication, activity 
 ### Tools & Libraries
 - Lombok  
 - Swagger / OpenAPI  
-- Docker  
 - Maven  
 - IntelliJ IDEA  
 
@@ -64,13 +62,6 @@ The application provides APIs for **user registration, authentication, activity 
 
 ---
 
-## 🚀 Deployment & Configuration
-- Application configuration managed using environment variables  
-- Docker-based containerization  
-- Demonstrated cloud deployment setup  
-
----
-
 ## 🎯 Project Purpose
 This project was developed to **strengthen backend development skills** and demonstrate practical usage of:
 - Spring Boot REST API development  
@@ -78,7 +69,6 @@ This project was developed to **strengthen backend development skills** and demo
 - Authentication and authorization using JWT  
 - Secure API development best practices  
 
-This repository is intended for **learning and portfolio demonstration**, suitable for **Java fresher and entry-level backend developer roles**.
 
 ---
 
